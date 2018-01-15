@@ -38,6 +38,7 @@ git-core
 # gnupg-curl ?
 ghostscript-fonts
 ImageMagick
+iproute2
 # iputils-arping ? iputils
 # krb5-user ?
 jq
