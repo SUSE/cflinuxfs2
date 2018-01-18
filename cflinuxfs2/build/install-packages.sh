@@ -34,7 +34,8 @@ flex
 fontconfig
 # fuse-emulator-utils ?
 fuse-devel
-# fuse-devel is needed by the fuse-mount test app in the CATs.
+fuse
+# fuse-devel and fuse (driver) are needed by the fuse-mount test app in the CATs.
 gdb
 git-core
 # gnupg-curl ?
